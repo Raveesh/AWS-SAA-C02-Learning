@@ -6,10 +6,15 @@ Definition: Cloud computing is a model to enable _ubiquitous_ , _convenient_, [[
 Adding my own bit to the definition 
 and which can be easily measured using a [[Pay -per Use]] basis
 
-To REMEMBER -- > SNEPS
+To REMEMBER -- > **SNEPS**
+
 S elf Service
+
 N network must cater to multiple std mechanisms
+
 E lasticity to provision and de provision must be quick
+
 P ooling of resources
+
 S ervices must be Measured
 
