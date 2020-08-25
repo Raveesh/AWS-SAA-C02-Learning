@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "62793f35f7e527e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f315862d90da70",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cloud Computing/Cloud Computing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7197745f809d4ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaf0639ebf411712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c56e1fd2c24b2e0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b2c4dec208ac234",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "238cec4e8c973a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "6405f8787e40eddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b5b278e8098594",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Computing/Cloud Computing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Cloud Computig/Cloud Computing.md",
+    "Cloud Computig/Network Access.md",
+    "Pay -per Use.md",
+    "rapidly provisioned and  released.md",
+    "shared pool of configurable computing resources.md"
+  ]
+}
